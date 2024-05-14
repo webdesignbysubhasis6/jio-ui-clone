@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jio-ui-clone/static/css/main.bd8d0af5.css",
+    "main.js": "/jio-ui-clone/static/js/main.46dbe5f2.js",
+    "static/js/787.7378a5ce.chunk.js": "/jio-ui-clone/static/js/787.7378a5ce.chunk.js",
+    "index.html": "/jio-ui-clone/index.html",
+    "main.bd8d0af5.css.map": "/jio-ui-clone/static/css/main.bd8d0af5.css.map",
+    "main.46dbe5f2.js.map": "/jio-ui-clone/static/js/main.46dbe5f2.js.map",
+    "787.7378a5ce.chunk.js.map": "/jio-ui-clone/static/js/787.7378a5ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd8d0af5.css",
+    "static/js/main.46dbe5f2.js"
+  ]
+}
